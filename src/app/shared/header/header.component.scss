@@ -1,0 +1,23 @@
+.navbar{
+    position: absolute;
+    width: 100%;
+    z-index: 9;
+}
+.nav-link{
+    color: #fff;
+}
+.nav-link:hover{
+    color: rgb(241, 239, 239);
+}
+
+.nav-link.active{
+    font-weight: 800;
+}
+.navbar-toggler{
+    border: none;
+    color: #fff;
+    font-size: 20px;
+}
+.navbar-toggler:focus{
+    outline: none;
+}

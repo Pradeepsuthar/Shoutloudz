@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Shoutloudz"
+    }
+  },
+  "defaultProject": "Shoutloudz",
+  "cli": {
+    "analytics": "19522e18-f8a1-4f01-a4d0-6b7e820fab78"
+  }
 }
